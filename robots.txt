@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sheciemee.maldive-karaoke.kr/sitemap.xml
